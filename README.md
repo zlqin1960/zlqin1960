@@ -17,6 +17,15 @@
 
 另有《高考现代文阅读解题精要》等教辅著作，合计出版教辅书 6 本。
 
+## 🎬 教学视频
+
+**从今年高考文言试题看掌握实词的重要性**（完整版，约 308 MB）
+
+- [在线查看 / 下载视频](https://github.com/zlqin1960/zlqin1960/releases/tag/video-2026)
+- [直接下载 MP4](https://github.com/zlqin1960/zlqin1960/releases/download/video-2026/gaokao-wenyan-shici-jiangzuo-full.mp4)
+
+讲座从当年高考文言真题出发，说明文言实词积累对读懂文本、准确答题的关键作用，配合《高中文言 300 实词例释》的使用方法讲解。
+
 ## 📮 联系
 
 - 邮箱：zlqin1960@163.com
