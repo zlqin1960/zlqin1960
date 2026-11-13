@@ -19,12 +19,17 @@
 
 ## 🎬 教学视频
 
-**从今年高考文言试题看掌握实词的重要性**（完整版，约 308 MB）
+**1. 从今年高考文言试题看掌握实词的重要性**（高中，完整版）
 
-- [在线查看 / 下载视频](https://github.com/zlqin1960/zlqin1960/releases/tag/video-2026)
-- [直接下载 MP4](https://github.com/zlqin1960/zlqin1960/releases/download/video-2026/gaokao-wenyan-shici-jiangzuo-full.mp4)
+- [视频页面](https://github.com/zlqin1960/zlqin1960/releases/tag/video-2026) ｜ [直接下载 MP4](https://github.com/zlqin1960/zlqin1960/releases/download/video-2026/gaokao-wenyan-shici-jiangzuo-full.mp4)
 
 讲座从当年高考文言真题出发，说明文言实词积累对读懂文本、准确答题的关键作用，配合《高中文言 300 实词例释》的使用方法讲解。
+
+**2. 过了实词关，文言并不难**（初中）
+
+- [视频页面](https://github.com/zlqin1960/zlqin1960/releases/tag/video-2026) ｜ [直接下载 MP4](https://github.com/zlqin1960/zlqin1960/releases/download/video-2026/chuzhong-wenyan-160-shichi-jiangzuo.mp4)
+
+面向初中文言文入门，围绕 160 个文言实词的学习路径讲解，配合《初中文言 160 实词例释》使用。
 
 ## 📮 联系
 
